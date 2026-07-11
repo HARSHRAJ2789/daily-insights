@@ -1,8 +1,6 @@
-# Daily Coding & Security Insights
+# Daily Coding & Security Notes
 
-This repository automatically logs daily insights on C++, Python, and Cybersecurity.
-
-It is updated automatically twice a day to maintain a consistent log of technical concepts and best practices.
+A personal collection of snippets, tips, and best practices I am logging for C++, Python, and Cybersecurity.
 
 ---
 
