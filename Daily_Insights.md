@@ -6,3 +6,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 
 
+
+### 2026-07-12 05:15:21
+- **C++**: Use `std::array` or `std::vector` over C-style raw arrays for safety and functionality.
