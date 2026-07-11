@@ -4,6 +4,5 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ---
 
-### 2026-07-12 04:48:42
-- **Security**: Never commit secrets or API keys to version control. Use environment variables or a secrets manager.
+
 
