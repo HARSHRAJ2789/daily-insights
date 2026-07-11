@@ -27,8 +27,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "HARSH"
+          git config --global user.email "anunayabhishek47@gmail.com"
           git add Daily_Insights.md
-          git commit -m "docs: Add daily C++/Python insight" || echo "No changes to commit"
+          
+          # Randomize commit message so it looks manual
+          MESSAGES=("Update notes" "Add new C++ snippet" "Python practice" "Security notes" "Daily log" "Update insights" "Add reference tip")
+          RANDOM_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+          
+          git commit -m "$RANDOM_MSG" || echo "No changes to commit"
           git push
