@@ -12,3 +12,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-12 05:15:26
 - **Python**: Use `*args` and `**kwargs` for flexible function signatures.
+
+### 2026-07-12 09:45:48
+- **Security**: Sanitize and validate all user inputs to mitigate XSS and SQL Injection vulnerabilities.
