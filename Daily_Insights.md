@@ -15,3 +15,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-12 09:45:48
 - **Security**: Sanitize and validate all user inputs to mitigate XSS and SQL Injection vulnerabilities.
+
+### 2026-07-12 20:37:55
+- **Security**: Implement the Principle of Least Privilege (PoLP). Give a process or user only the minimum access necessary.
