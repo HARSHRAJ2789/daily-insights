@@ -18,3 +18,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-12 20:37:55
 - **Security**: Implement the Principle of Least Privilege (PoLP). Give a process or user only the minimum access necessary.
+
+### 2026-07-13 10:54:24
+- **C++**: `auto` type deduction makes code cleaner, especially with complex iterator types.
