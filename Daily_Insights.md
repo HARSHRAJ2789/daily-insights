@@ -27,3 +27,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-14 09:51:25
 - **C++**: `auto` type deduction makes code cleaner, especially with complex iterator types.
+
+### 2026-07-14 20:53:56
+- **Python**: Use `enumerate()` instead of `range(len())` to iterate over a list and its indices.
