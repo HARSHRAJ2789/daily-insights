@@ -24,3 +24,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-13 20:52:51
 - **C++**: Avoid using `#include <bits/stdc++.h>` in production code as it slows down compilation and increases binary size.
+
+### 2026-07-14 09:51:25
+- **C++**: `auto` type deduction makes code cleaner, especially with complex iterator types.
