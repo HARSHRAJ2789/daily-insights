@@ -33,3 +33,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-15 09:55:42
 - **Python**: Use `*args` and `**kwargs` for flexible function signatures.
+
+### 2026-07-15 20:53:11
+- **Python**: Use `enumerate()` instead of `range(len())` to iterate over a list and its indices.
