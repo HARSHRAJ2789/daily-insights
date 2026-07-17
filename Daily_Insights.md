@@ -45,3 +45,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-17 09:51:33
 - **Python**: Context managers (`with` statement) are the preferred way to handle resource allocation like opening files.
+
+### 2026-07-17 20:46:27
+- **Security**: Avoid using MD5 or SHA-1 for cryptography. Use SHA-256 or bcrypt/Argon2 for passwords.
