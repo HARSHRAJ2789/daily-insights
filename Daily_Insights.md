@@ -42,3 +42,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-16 20:51:32
 - **C++**: Prefer `std::array` or `std::vector` over C-style raw arrays for safety and functionality.
+
+### 2026-07-17 09:51:33
+- **Python**: Context managers (`with` statement) are the preferred way to handle resource allocation like opening files.
