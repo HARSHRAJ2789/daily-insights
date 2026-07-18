@@ -51,3 +51,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-18 09:18:13
 - **Python**: Use `*args` and `**kwargs` for flexible function signatures.
+
+### 2026-07-18 20:40:02
+- **Security**: Implement the Principle of Least Privilege (PoLP). Give a process or user only the minimum access necessary.
