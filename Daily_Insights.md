@@ -48,3 +48,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-17 20:46:27
 - **Security**: Avoid using MD5 or SHA-1 for cryptography. Use SHA-256 or bcrypt/Argon2 for passwords.
+
+### 2026-07-18 09:18:13
+- **Python**: Use `*args` and `**kwargs` for flexible function signatures.
