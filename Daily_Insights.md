@@ -57,3 +57,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-19 09:47:04
 - **C++**: Use `std::make_unique` and `std::make_shared` instead of bare `new` to prevent memory leaks.
+
+### 2026-07-19 20:39:35
+- **Python**: Use `enumerate()` instead of `range(len())` to iterate over a list and its indices.
