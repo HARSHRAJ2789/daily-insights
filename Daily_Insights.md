@@ -54,3 +54,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-18 20:40:02
 - **Security**: Implement the Principle of Least Privilege (PoLP). Give a process or user only the minimum access necessary.
+
+### 2026-07-19 09:47:04
+- **C++**: Use `std::make_unique` and `std::make_shared` instead of bare `new` to prevent memory leaks.
