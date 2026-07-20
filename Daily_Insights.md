@@ -63,3 +63,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-20 10:45:27
 - **Security**: Sanitize and validate all user inputs to mitigate XSS and SQL Injection vulnerabilities.
+
+### 2026-07-20 21:05:03
+- **C++**: Use `std::make_unique` and `std::make_shared` instead of bare `new` to prevent memory leaks.
