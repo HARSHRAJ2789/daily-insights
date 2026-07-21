@@ -69,3 +69,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-21 10:20:41
 - **C++**: Avoid using `#include <bits/stdc++.h>` in production code as it slows down compilation and increases binary size.
+
+### 2026-07-21 21:00:30
+- **Security**: Always salt your hashes! A cryptographic salt makes rainbow table attacks computationally infeasible.
