@@ -66,3 +66,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-20 21:05:03
 - **C++**: Use `std::make_unique` and `std::make_shared` instead of bare `new` to prevent memory leaks.
+
+### 2026-07-21 10:20:41
+- **C++**: Avoid using `#include <bits/stdc++.h>` in production code as it slows down compilation and increases binary size.
