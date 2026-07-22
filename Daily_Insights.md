@@ -75,3 +75,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-22 10:19:58
 - **Python**: Use `enumerate()` instead of `range(len())` to iterate over a list and its indices.
+
+### 2026-07-22 20:58:52
+- **Security**: Sanitize and validate all user inputs to mitigate XSS and SQL Injection vulnerabilities.
