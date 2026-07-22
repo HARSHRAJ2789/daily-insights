@@ -72,3 +72,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-21 21:00:30
 - **Security**: Always salt your hashes! A cryptographic salt makes rainbow table attacks computationally infeasible.
+
+### 2026-07-22 10:19:58
+- **Python**: Use `enumerate()` instead of `range(len())` to iterate over a list and its indices.
