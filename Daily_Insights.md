@@ -78,3 +78,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-22 20:58:52
 - **Security**: Sanitize and validate all user inputs to mitigate XSS and SQL Injection vulnerabilities.
+
+### 2026-07-23 10:14:26
+- **C++**: Use ranged-based for loops: `for (const auto& item : container)` for safer and cleaner iteration.
