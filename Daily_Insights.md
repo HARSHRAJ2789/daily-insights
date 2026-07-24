@@ -84,3 +84,6 @@ A personal collection of snippets, tips, and best practices I am logging for C++
 
 ### 2026-07-23 20:55:44
 - **C++**: Remember the Rule of Three/Five/Zero for classes managing resources (memory, file handles, etc.).
+
+### 2026-07-24 10:11:21
+- **C++**: Use ranged-based for loops: `for (const auto& item : container)` for safer and cleaner iteration.
